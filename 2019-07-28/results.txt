@@ -1,0 +1,59 @@
+
+TD3_PER_t_hub
+
+Episode  100  LS/Me100/Ma100/Avg:   64.2/ 226.0/  97.2/ -20.2  AvStp: 446 W/L:  39/ 61  [c1/c2/a  8.7e-02/ 8.6e-02/-5.8e+00]  tlft: 4.0 h eT:0.36 h nmCPU: 6.44s
+Episode  200  LS/Me100/Ma100/Avg:   58.3/ 158.8/ 136.1/  74.5  AvStp: 415 W/L:  74/ 26  [c1/c2/a  9.2e-02/ 9.0e-02/-1.2e+01]  tlft: 3.3 h eT:0.67 h nmCPU: 12.44s
+Episode  300  LS/Me100/Ma100/Avg:  123.3/ 242.8/ 143.5/ 100.8  AvStp: 476 W/L:  93/  7  [c1/c2/a  6.2e-02/ 6.3e-02/-2.2e+01]  tlft: 3.1 h eT:1.03 h nmCPU: 19.41s
+Episode  400  LS/Me100/Ma100/Avg:  138.6/ 271.4/ 163.0/ 128.1  AvStp: 398 W/L:  98/  2  [c1/c2/a  5.7e-02/ 5.6e-02/-3.0e+01]  tlft: 2.7 h eT:1.33 h nmCPU: 24.88s
+Episode  500  LS/Me100/Ma100/Avg:  139.1/ 248.3/ 178.7/ 141.4  AvStp: 312 W/L:  89/ 11  [c1/c2/a  5.7e-02/ 5.7e-02/-3.4e+01]  tlft: 2.2 h eT:1.56 h nmCPU: 29.04s
+Episode  600  LS/Me100/Ma100/Avg:  168.8/ 274.5/ 186.2/ 147.3  AvStp: 231 W/L:  99/  1  [c1/c2/a  5.8e-02/ 5.9e-02/-3.7e+01]  tlft: 1.7 h eT:1.71 h nmCPU: 32.25s
+Episode  700  LS/Me100/Ma100/Avg:  150.4/ 271.5/ 193.2/ 144.8  AvStp: 249 W/L:  85/ 15  [c1/c2/a  5.3e-02/ 5.4e-02/-4.1e+01]  tlft: 1.3 h eT:1.89 h nmCPU: 35.57s
+Episode  800  LS/Me100/Ma100/Avg:  149.8/ 246.8/ 207.3/ 156.0  AvStp: 200 W/L:  96/  4  [c1/c2/a  5.4e-02/ 5.3e-02/-4.6e+01]  tlft: 1.0 h eT:2.02 h nmCPU: 38.25s
+Episode  900  LS/Me100/Ma100/Avg:  170.5/ 277.0/ 192.9/ 142.0  AvStp: 187 W/L:  69/ 31  [c1/c2/a  6.1e-02/ 6.0e-02/-4.9e+01]  tlft: 0.7 h eT:2.15 h nmCPU: 40.70s
+Episode 1000  LS/Me100/Ma100/Avg:  168.7/ 290.3/ 185.9/ 152.9  AvStp: 218 W/L:  95/  5  [c1/c2/a  6.1e-02/ 6.0e-02/-5.3e+01]  tlft: 0.5 h eT:2.30 h nmCPU: 43.59s
+Episode 1100  LS/Me100/Ma100/Avg:  150.3/ 264.8/ 189.6/ 153.0  AvStp: 204 W/L:  99/  1  [c1/c2/a  5.9e-02/ 5.7e-02/-5.4e+01]  tlft: 0.2 h eT:2.43 h nmCPU: 46.33s
+Episode 1200  LS/Me100/Ma100/Avg:  161.8/ 255.3/ 178.7/ 148.8  AvStp: 187 W/L:  97/  3  [c1/c2/a  5.5e-02/ 5.4e-02/-5.7e+01]  tlft: 0.0 h eT:2.56 h nmCPU: 48.86s
+
+
+TD3_s
+
+Episode  100  LS/Me100/Ma100/Avg:  -67.6/ -11.2/  39.0/ -36.2  AvStp: 435 W/L:  20/ 80  [c1/c2/a  2.6e+00/ 3.2e+00/-2.1e+00]  tlft: 3.0 h eT:0.27 h nmCPU: 7.16s
+Episode  200  LS/Me100/Ma100/Avg:   -0.1/  27.6/ 137.9/  -5.7  AvStp: 947 W/L:  96/  4  [c1/c2/a  7.0e-01/ 6.9e-01/-4.1e+00]  tlft: 5.0 h eT:1.01 h nmCPU: 21.98s
+Episode  300  LS/Me100/Ma100/Avg:  147.0/ 286.0/ 167.3/ 101.4  AvStp: 463 W/L:  98/  2  [c1/c2/a  7.6e-01/ 7.6e-01/-9.0e+00]  tlft: 4.0 h eT:1.32 h nmCPU: 29.80s
+
+
+TD3_PER_s
+
+Episode  100  LS/Me100/Ma100/Avg:  -17.6/   8.7/  80.2/ -50.5  AvStp: 600 W/L:  50/ 50  [c1/c2/a  1.6e+00/ 1.6e+00/ 7.2e+00]  tlft: 5.9 h eT:0.53 h nmCPU: 9.91s
+Episode  200  LS/Me100/Ma100/Avg:  131.2/ 228.5/ 131.2/  72.3  AvStp: 488 W/L:  77/ 23  [c1/c2/a  8.8e-01/ 8.6e-01/-1.2e+01]  tlft: 5.1 h eT:1.01 h nmCPU: 17.64s
+Episode  300  LS/Me100/Ma100/Avg:  140.7/ 255.8/ 170.7/ 127.9  AvStp: 261 W/L:  84/ 16  [c1/c2/a  6.6e-01/ 6.6e-01/-2.3e+01]  tlft: 3.8 h eT:1.26 h nmCPU: 21.60s
+Episode  400  LS/Me100/Ma100/Avg:  137.6/ 272.1/ 173.8/ 131.0  AvStp: 211 W/L:  77/ 23  [c1/c2/a  8.2e-01/ 8.2e-01/-3.3e+01]  tlft: 2.9 h eT:1.46 h nmCPU: 24.88s
+Episode  500  LS/Me100/Ma100/Avg:  145.3/ 284.7/ 192.5/ 151.4  AvStp: 207 W/L:  93/  7  [c1/c2/a  8.2e-01/ 8.1e-01/-3.9e+01]  tlft: 2.3 h eT:1.65 h nmCPU: 28.27s
+Episode  600  LS/Me100/Ma100/Avg:  133.5/ 255.3/ 186.6/ 151.9  AvStp: 180 W/L:  96/  4  [c1/c2/a  9.0e-01/ 9.0e-01/-5.1e+01]  tlft: 1.8 h eT:1.82 h nmCPU: 31.12s
+Episode  700  LS/Me100/Ma100/Avg:   82.2/ 113.1/ 189.2/ 109.2  AvStp: 122 W/L:  25/ 75  [c1/c2/a  1.2e+00/ 1.2e+00/-5.9e+01]  tlft: 1.4 h eT:1.92 h nmCPU: 32.96s
+
+
+TD3_PER_s_hub
+
+Episode  100  LS/Me100/Ma100/Avg:   82.0/ 142.1/  87.4/ -55.8  AvStp: 249 W/L:   3/ 97  [c1/c2/a  1.3e-01/ 1.3e-01/ 1.3e+00]  tlft: 1.7 h eT:0.15 h nmCPU: 3.61s
+Episode  200  LS/Me100/Ma100/Avg:   91.4/ 139.7/ 109.8/  61.6  AvStp: 409 W/L:  33/ 67  [c1/c2/a  1.0e-01/ 9.8e-02/-1.7e+01]  tlft: 2.4 h eT:0.48 h nmCPU: 9.77s
+Episode  300  LS/Me100/Ma100/Avg:  137.9/ 288.2/ 156.4/  95.6  AvStp: 337 W/L:  74/ 26  [c1/c2/a  1.0e-01/ 9.6e-02/-2.0e+01]  tlft: 2.3 h eT:0.78 h nmCPU: 14.72s
+Episode  400  LS/Me100/Ma100/Avg:  158.1/ 270.5/ 160.7/ 113.2  AvStp: 277 W/L:  84/ 16  [c1/c2/a  7.3e-02/ 7.3e-02/-3.0e+01]  tlft: 2.1 h eT:1.05 h nmCPU: 19.18s
+Episode  500  LS/Me100/Ma100/Avg:  125.6/ 234.6/ 172.8/ 135.5  AvStp: 282 W/L:  96/  4  [c1/c2/a  6.4e-02/ 6.3e-02/-3.2e+01]  tlft: 1.9 h eT:1.34 h nmCPU: 23.80s
+Episode  600  LS/Me100/Ma100/Avg:  138.1/ 224.3/ 179.2/ 138.6  AvStp: 295 W/L:  97/  3  [c1/c2/a  5.5e-02/ 5.9e-02/-3.7e+01]  tlft: 1.6 h eT:1.63 h nmCPU: 28.38s
+Episode  700  LS/Me100/Ma100/Avg:   91.0/ 220.8/ 171.3/ 139.0  AvStp: 335 W/L: 100/  0  [c1/c2/a  5.1e-02/ 5.3e-02/-3.4e+01]  tlft: 1.4 h eT:1.98 h nmCPU: 33.30s
+Episode  800  LS/Me100/Ma100/Avg:  129.7/ 245.7/ 176.4/ 133.3  AvStp: 360 W/L: 100/  0  [c1/c2/a  5.3e-02/ 5.1e-02/-3.1e+01]  tlft: 1.2 h eT:2.36 h nmCPU: 38.70s
+Episode  900  LS/Me100/Ma100/Avg:  141.8/ 246.9/ 173.1/ 136.7  AvStp: 318 W/L:  99/  1  [c1/c2/a  4.8e-02/ 4.7e-02/-3.0e+01]  tlft: 0.9 h eT:2.69 h nmCPU: 43.80s
+Episode 1000  LS/Me100/Ma100/Avg:  123.5/ 253.5/ 166.2/ 130.6  AvStp: 384 W/L: 100/  0  [c1/c2/a  4.0e-02/ 3.8e-02/-2.7e+01]  tlft: 0.6 h eT:3.10 h nmCPU: 49.77s
+Episode 1100  LS/Me100/Ma100/Avg:  135.4/ 274.1/ 181.6/ 142.1  AvStp: 303 W/L: 100/  0  [c1/c2/a  4.1e-02/ 4.3e-02/-3.0e+01]  tlft: 0.3 h eT:3.41 h nmCPU: 54.76s
+Episo
+de 1200  LS/Me100/Ma100/Avg:  133.9/ 261.2/ 164.1/ 134.6  AvStp: 328 W/L: 100/  0  [c1/c2/a  3.6e-02/ 3.6e-02/-3.0e+01]  tlft: 0.0 h eT:3.75 h nmCPU: 60.03s
+
+DDPG_PER_t
+
+Episode  400  LS/Me100/Ma100/Avg:  129.0/ 223.9/ 166.8/ 119.9  AvStp: 220 W/L:  66/ 34  [c1/c2/a  6.1e-01/NA/-4.8e+01]  tlft: 1.7 h eT:0.86 h nmCPU: 14.46s
+Episode  500  LS/Me100/Ma100/Avg:  155.4/ 274.4/ 175.7/ 128.9  AvStp: 183 W/L:  59/ 41  [c1/c2/a  1.1e+00/NA/-6.2e+01]  tlft: 1.4 h eT:0.97 h nmCPU: 16.67s
+Episode  600  LS/Me100/Ma100/Avg:  156.0/ 220.3/ 194.5/ 121.0  AvStp: 174 W/L:  49/ 51  [c1/c2/a  2.0e+00/NA/-6.8e+01]  tlft: 1.1 h eT:1.07 h nmCPU: 18.79s
+Episode  700  LS/Me100/Ma100/Avg:   65.7/ 105.3/ 191.9/ 150.5  AvStp: 180 W/L:  86/ 14  [c1/c2/a  9.9e-01/NA/-7.3e+01]  tlft: 0.8 h eT:1.18 h nmCPU: 20.96s
+Episode  800  LS/Me100/Ma100/Avg:  196.1/ 289.8/ 199.5/ 134.1  AvStp: 165 W/L:  72/ 28  [c1/c2/a  9.8e-01/NA/-8.4e+01]  tlft: 0.6 h eT:1.27 h nmCPU: 22.98s
+Episode  900  LS/Me100/Ma100/Avg:   94.9/ 134.2/ 193.5/ 156.3  AvStp: 162 W/L:  90/ 10  [c1/c2/a  5.3e-01/NA/-9.3e+01]  tlft: 0.5 h eT:1.37 h nmCPU: 24.94s
